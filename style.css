@@ -42,7 +42,7 @@ a.link1 {
 	transform-origin: left;
 }
 a.link2 {
-	font-size: 40px;
+	font-size: 28px;
 	color: white;
 	transition: all 0.3s ease-in 0s;
 	display: inline-block;
@@ -57,7 +57,7 @@ a:hover{
 nav{
 	background-image: url("ciel.jpg");
 	width: 100%;
-	height: 100px;
+	height: 80px;
 	justify-content: space-around;
 	display: flex;
 	align-items: center;
